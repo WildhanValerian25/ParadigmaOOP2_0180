@@ -19,3 +19,6 @@ public:
     }
  };
 
+ int main() {
+    AbstraksiKelas ak;
+  
