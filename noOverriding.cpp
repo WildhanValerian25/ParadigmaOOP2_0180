@@ -14,3 +14,5 @@ public:
     }
  };
 
+ int main(){
+    derivedClass a;
