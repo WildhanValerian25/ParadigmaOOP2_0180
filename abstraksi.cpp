@@ -21,4 +21,5 @@ public:
 
  int main() {
     AbstraksiKelas ak;
-  
+    ak.setXY("Yogyakarta", "Kampus");
+   
