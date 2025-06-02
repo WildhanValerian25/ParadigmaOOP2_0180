@@ -26,4 +26,5 @@ public:
         cout << lampuRumah.getSaklarNo(2) << endl;
         cout << lampuRumah.getSaklarNo(3) << endl;
 
-   
+        return 0;
+ }
