@@ -33,4 +33,7 @@
         obyek->pesan();
         obyek = &b;
         obyek->pesan();
-      
+        // a.seseorang::pesan()
+        // b.seseorang::pesan()
+        return 0;
+    }
