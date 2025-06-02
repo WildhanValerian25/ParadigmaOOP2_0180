@@ -13,3 +13,4 @@ public:
         cout << "Hallo saya Function dari derived Class";
     }
  };
+
